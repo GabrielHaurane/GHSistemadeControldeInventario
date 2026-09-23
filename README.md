@@ -130,7 +130,7 @@ O desde Visual Studio: **Git → Clonar repositorio**.
 ### 2. Crear la base de datos
 
 1. Abrir **MySQL Workbench** y conectarse al servidor.
-2. Abrir el script [`BaseDeDatos/sistemadeinventarioBDfinal.sql`](BaseDeDatos/sistemadeinventarioBDfinal.sql).
+2. si desea ver la base de datos envie un mensaje por mail a gabrielhaurane@gmail.com una vez enviado el archivo descarguelo y continue con el paso 3.
 3. Ejecutarlo completo (botón ⚡).
 
 El script crea la base `sistemadeinventariobdfinal` desde cero, con todas las tablas, datos de ejemplo, roles y usuarios de prueba.
