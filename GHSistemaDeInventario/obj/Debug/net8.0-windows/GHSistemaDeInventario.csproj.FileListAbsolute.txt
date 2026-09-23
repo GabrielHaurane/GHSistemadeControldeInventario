@@ -1,0 +1,126 @@
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.AssemblyReference.cache
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Login.resources
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.GenerateResource.cache
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfoInputs.cache
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfo.cs
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.CoreCompileInputs.cache
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.exe
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.deps.json
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.runtimeconfig.json
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistem.54CC8E40.Up2Date
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\refint\GHSistemaDeInventario.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.genruntimeconfig.cache
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\ref\GHSistemaDeInventario.dll
+C:\Users\CONECTIA BA\source\repos\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Principal.resources
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.exe
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.deps.json
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.runtimeconfig.json
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.AssemblyReference.cache
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Principal.resources
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.GenerateResource.cache
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfoInputs.cache
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfo.cs
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.CoreCompileInputs.cache
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistem.54CC8E40.Up2Date
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\refint\GHSistemaDeInventario.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.genruntimeconfig.cache
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\ref\GHSistemaDeInventario.dll
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.ListadoClientes.resources
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Properties.Resources.resources
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Inicio_Sesion.resources
+C:\Users\Gabote\OneDrive\Desktop\Gabriel_Escritorio\instituto\programacion 2\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AgregarClientes.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.exe
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.deps.json
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.runtimeconfig.json
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.AssemblyReference.cache
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AgregarClientes.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Inicio_Sesion.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.ListadoClientes.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Principal.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.Properties.Resources.resources
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.GenerateResource.cache
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfoInputs.cache
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.AssemblyInfo.cs
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.csproj.CoreCompileInputs.cache
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistem.54CC8E40.Up2Date
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\refint\GHSistemaDeInventario.dll
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.pdb
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\GHSistemaDeInventario.genruntimeconfig.cache
+D:\desarrollo de software\programacion\GHSistemaDeInventario\GHSistemaDeInventario\GHSistemaDeInventario\obj\Debug\net8.0-windows\ref\GHSistemaDeInventario.dll
